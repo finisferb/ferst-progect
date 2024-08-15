@@ -17,3 +17,9 @@
       align-items: center;
       font-size: 75px;
 }
+.zen{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 15px;
+}
